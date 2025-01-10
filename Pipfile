@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+python-dotenv = "*"
+langchain-openai = "*"
+pypdf = "*"
+langchain-community = "*"
+langchain-pinecone = "*"
+pinecone = "*"
 
 [dev-packages]
 
